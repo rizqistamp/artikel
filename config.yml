@@ -1,0 +1,19 @@
+title: Artikel RizQi Stamp
+description: Panduan, tips, dan info seputar cop/rubber stamp custom di Malaysia — dari RizQi Stamp, Labuan.
+url: "https://artikel.rizqi.com.my"
+baseurl: ""
+lang: ms
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
