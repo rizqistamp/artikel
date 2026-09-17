@@ -33,8 +33,6 @@ labels: [Local SEO, Cop Syarikat]
   <li>Banding harga: self-inking RM38–RM60, tradisional RM15–RM40, dater RM50–RM80, flash stamp RM40–RM80.</li>
 </ol>
 
-<p>Satu pengalaman lagi: pejabat notari di Kuala Lumpur datang bawa contoh cap lama untuk penambahbaikan. Kami sarankan <strong>cop dater</strong> dengan pad dakwat khas supaya cap tarikh kekal jelas walaupun kerap digunakan. <!-- INTERNAL_LINK: [cop dater] -> [cop-dater] --></p>
-
 <p>Dari sudut tempahan, ramai pelanggan SME suka proses cepat — berikan fail logo (PNG/vector), teks penuh (nama syarikat, nombor pendaftaran, alamat) dan pilih jenis dakwat. Jika anda mahu, boleh beli terus di <a href='https://shop.rizqi.com.my'>kedai online RizQi Stamp</a> atau hubungi kami untuk cadangan saiz.</p>
 
 <!-- IMAGE 3: Tangan sedang menggunakan cop dater pada invois, fokus pada cap tarikh yang jelas, pencahayaan semulajadi. -->
